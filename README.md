@@ -9,8 +9,6 @@
 
 In this example, I've developed an object detection model using YOLO to detect if a person is making an obscene gesture (🖕). If positive, a blur will be applied over the image.
 
-Repository: [GitHub Link](https://github.com/VictorBarbosa/ObsceneGestureDetector)
-
 Live Test: [Git Pages](https://victorbarbosa.github.io/ObsceneGestureDetector/)
 
 ```bash
@@ -34,8 +32,6 @@ Note: This may not work on smartphones and/or tablets; it has been optimized for
 
 Dans cet exemple, j'ai développé un modèle de détection d'objets en utilisant YOLO pour détecter si une personne fait un geste obscène (🖕). Si c'est le cas, un flou sera appliqué sur l'image.
 
-Dépôt: [Lien GitHub](https://github.com/VictorBarbosa/ObsceneGestureDetector)
-
 Test en Direct: [Git Pages](https://victorbarbosa.github.io/ObsceneGestureDetector/)
 
 ```bash
@@ -58,8 +54,6 @@ Remarque : Cela peut ne pas fonctionner sur les smartphones et/ou les tablettes 
 **Projeto 3: Detector de Gestos Obscenos**
 
 Neste exemplo, desenvolvi um modelo de detecção de objetos usando YOLO para detectar se uma pessoa está fazendo um gesto obsceno (🖕). Se positivo, um borrão será aplicado sobre a imagem.
-
-Repositório: [Link GitHub](https://github.com/VictorBarbosa/ObsceneGestureDetector)
 
 Teste ao Vivo: [Git Pages](https://victorbarbosa.github.io/ObsceneGestureDetector/)
 
