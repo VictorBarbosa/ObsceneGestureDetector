@@ -1,7 +1,7 @@
 description: Ultralytics best model trained on ./config.yaml
 author: Ultralytics
 license: AGPL-3.0 https://ultralytics.com/license
-date: '2023-08-19T10:03:18.191318'
+date: '2023-08-19T16:44:46.214846'
 version: 8.0.154
 stride: 32
 task: detect
