@@ -1,0 +1,19 @@
+<div>
+  <canvas #canvas [width]="width" [height]="height"></canvas>
+  <app-canvas-video [model]="model" (predictionReturn)="predictionReturn($event)" [canvas]="canvas"
+    [interetionPerSec]="100" [autoplay]="true"></app-canvas-video>
+
+  <div class="align-context">
+
+    <!-- <ion-list>
+      <ion-item>
+        <ion-select [(ngModel)]="typeSelection" interface="popover" placeholder="Select Camera or video">
+          <ion-select-option value="apples">Camera</ion-select-option>
+          <ion-select-option value="apples">Video</ion-select-option>
+
+        </ion-select>
+      </ion-item>
+    </ion-list> -->
+  </div>
+
+</div>
