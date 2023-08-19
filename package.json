@@ -9,7 +9,10 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "lint": "ng lint"
+    "lint": "ng lint",
+    "git-publish": "ng build -c --output-path docs --base-href /ObsceneGestureDetector/ && git add . && git commit -m publish && git push",
+    "iphone":"ionic  capacitor run ios --external --livereload   --watch     --open"
+
   },
   "private": true,
   "dependencies": {
