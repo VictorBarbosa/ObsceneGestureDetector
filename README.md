@@ -51,7 +51,7 @@ Remarque : Cela peut ne pas fonctionner sur les smartphones et/ou les tablettes 
 
 **Português:**
 
-**Projeto 3: Detector de Gestos Obscenos**
+**Projeto : Detector de Gestos Obscenos**
 
 Neste exemplo, desenvolvi um modelo de detecção de objetos usando YOLO para detectar se uma pessoa está fazendo um gesto obsceno (🖕). Se positivo, um borrão será aplicado sobre a imagem.
 
